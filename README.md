@@ -2,7 +2,7 @@
 ## Description
 This is project 3 for Web Development course (CS5610) in Northeastern University, Silicon Valley (Spring 2019 semester). Meteor is used for creating this website. In this website, users are able to create a new story or add more materials to an existing story together with other users. All users need to register an account and then login in order to view stories and upvote/downvote archived stories. In addition, users are able to send comments while writing the story and other users who are also writing the stories are able to communite via comments. As administrator, you can add materials in database for new stories.
 
-This project is made by Yibo Zhao and Fang Hong.
+This project is made by [Yibo Zhao](http://18.144.2.153:8080/) and [Fang Hong](https://sososummer88.github.io/).
 
 ## Demo
 You can visit our website [here](https://happy-crowd-story.herokuapp.com).
@@ -92,6 +92,9 @@ https://www.youtube.com/watch?v=q5r4chooqbI&t=20s
 ## Reference to the class with link:
 For more information about the class, please go to this page:
 http://johnguerra.co/classes/webDevelopment_spring_2019/
+
+## Slide
+[slides](https://docs.google.com/presentation/d/1I2Okq8IEqSEEAi9IlV72KHDsL5982XjAT7hbIb7J0-4/edit#slide=id.p)
 
 ## License
 This repository is under MIT license.
